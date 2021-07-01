@@ -1,0 +1,21 @@
+const daftarvip = (prefix) => { 
+	return `
+	
+*PRE?O DO PREMIUM:*
+
+-1. 10 > Acessar recursos ViP
+-2. 20 > Recursos VIP + Insira o bot no seu grupo!
+
+*SE QUER TER PREMIUM:*
+
+*CHAME O DARK:*
+
+_wa.me/5522996215481 ou digite *${prefix}owner*_
+
+*NOTA*
+
+*GRUPO DO DARK:*
+
+_https://chat.whatsapp.com/K6X6sVsfkCp1KZdIIuU4Kk_ `
+}
+exports.daftarvip = daftarvip
